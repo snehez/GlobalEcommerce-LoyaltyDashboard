@@ -83,7 +83,7 @@ Designed with **cross-chart filtering**, **drill-through navigation**, and **too
 
 ---
 
-##⚠️ Limitations
+##⚠️ Limitations 
 
 Products are not segmented by detailed category attributes (future enhancement possible).
 
@@ -99,5 +99,3 @@ Specializes in Data Visualization, Storytelling with Data, and Business Analytic
 
 🔗 LinkedIn: https://www.linkedin.com/in/sneha-ghosh-98aaa9337
 
-Avg Revenue per Customer =
-DIVIDE([Total Revenue], [Total Customers], 0)
